@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Gems>
+    <Gem id = "1">
+        <Name>Ruby</Name>
+        <Preciousness>semiprecious</Preciousness>
+        <Origin>China</Origin>
+        <Visual_parameters>
+            <color>red</color>
+            <transparency>89</transparency>
+            <cutting_methods>6</cutting_methods>
+        </Visual_parameters>
+        <Value measure = "carats">6</Value>
+    </Gem>
+    <Gem id = "2">
+        <Name>Diamond</Name>
+        <Preciousness>precious</Preciousness>
+        <Origin>India</Origin>
+        <Visual_parameters>
+            <color>white</color>
+            <transparency>95</transparency>
+            <cutting_methods>6</cutting_methods>
+        </Visual_parameters>
+        <Value measure = "carats">3</Value>
+    </Gem>
+</Gems>
